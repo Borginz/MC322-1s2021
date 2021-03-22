@@ -1,4 +1,4 @@
 # Lab 01
 
 ## Notebook 1 sobre Empréstimos
-[Notebook 1](notebook/emprestimo01-ra177829 (1).ipynb))
+[Notebook 1](notebook/emprestimo01-ra177829.ipynb))
